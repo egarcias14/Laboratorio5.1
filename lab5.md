@@ -1,4 +1,4 @@
-# Laboratorio5.1
+
 Square sq1, sq2; //Declara la variable del class
 
 void setup() {
